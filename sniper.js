@@ -16,7 +16,7 @@ Bot.on('ready', () => {
 
     console.log('Connected, A toi de trouver un nitro maintenant .')
 
-    console.log('—————[$$$]—————)
+    console.log('—————[$$$]—————')
 
 });
 
